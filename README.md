@@ -38,4 +38,3 @@ Full compatible Gerber files included
 | 1 | CON1 | Header 17x2 |
 | 1 | CON2 | D-SUB 23 Male |
 | 1 | CON3 | Molex 4 Male |
-
