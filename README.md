@@ -24,3 +24,18 @@ This drawing has been sketch on OrCAD Capture CIS 10.5.0
 
 This PCB has been sketch on WinTypon v8.3
 Full compatible Gerber files included
+## Bill of material
+
+| Quantity | Designator | Part |
+|---|---|---|
+| 10 | R1,R2,R3,R4,R5,R6,R8,R9,R10,R11 | 2.2K 1% 0805 |
+| 1 | C1 | 10uF 10% 1206 |
+| 2 | C2,C3 | 0.1uF 10% 0805 |
+| 1 | U1 | 74LVC1G74 SMD |
+| 1 | U2 | 74LS38 SMD |
+| 3 | J1,J2,J3 | Header 3x1 |
+| 1 | J4 | Header 3x2 |
+| 1 | CON1 | Header 17x2 |
+| 1 | CON2 | D-SUB 23 Male |
+| 1 | CON3 | Molex 4 Male |
+
