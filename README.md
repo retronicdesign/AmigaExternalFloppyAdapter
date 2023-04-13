@@ -8,8 +8,8 @@ This board allow to connect all type of floppy drives to the Amiga external D-Su
 
 It can operate as DF1, DF2 or DF3, depending on the J4 jumper position.
 Two mode of operation are possible;
-- Native "Shugart" mode can be selected with J2, J2 and J3 jumper between pin 1 and 2.
-- IBM-PC mode can be selected with J2, J2 and J3 jumper between pin 2 and 3.
+- Native "Shugart" mode can be selected with J1, J2 and J3 jumper between pin 1 and 2.
+- IBM-PC mode can be selected with J1, J2 and J3 jumper between pin 2 and 3.
 
 Onboard logic makes all drive to be seen as 880K standard Amiga floppy drives.
 
