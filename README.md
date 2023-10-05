@@ -25,7 +25,7 @@ This drawing has been sketch on OrCAD Capture CIS 10.5.0
 This PCB has been sketch on WinTypon v8.3
 Full compatible Gerber files included
 
-You can have it build at [PCBWay](https://pcbway.com/g/J4X1Dw) under my shared projects.
+You can buy a ready made version on my website: [Retronic Design Store](https://www.retronicdesign.com/en/store).
 
 ## Bill of material
 
